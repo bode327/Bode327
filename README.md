@@ -27,4 +27,4 @@
   
    ##
 
-  ![Snake animation](https://github.com/bode327/Bode327/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/bode327/Bode327blob/output/github-contribution-grid-snake.svg)
