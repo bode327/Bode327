@@ -20,5 +20,5 @@
    ##
   
 <div>
-  ![Snake animation](https://https://github.com/bode327/Bode327/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/bode327/Bode327/blob/main/.github/workflows/github-contribution-grid-snake.svg)
 </div>
