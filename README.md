@@ -12,7 +12,7 @@
 -->
 <h1 align="center">
   <br>
-  <a href="infotecmg.net"><img src="https://github.com/bode327/Bode327/blob/main/.github/workflows/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="200"></a>
+  <a href="infotecmg.net"><img src="https://github.com/bode327/Bode327/blob/main/.github/workflows/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="300"></a>
   <br>
   Bode327
   <br>
