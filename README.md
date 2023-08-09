@@ -10,7 +10,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">
+  <br>
+  <a href="infotecmg.net"><img src="[https://github.com/MarcusTechs/MarcusTechs/assets/138902771/635d53ce-c3eb-4d64-8609-a582963a34bc](https://github.com/bode327/Bode327/blob/main/.github/workflows/Original%20on%20Transparent(Letter%20White).png)" alt="Markdownify" width="200"></a>
+  <br>
+  MarcusTechs
+  <br>
+  
+</h1>
 <div align="center">
   <a href="https://github.com/bode327">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bode327&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
