@@ -29,6 +29,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Bode327-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <a href="https://github.com/bode327/gerente_estoque" target="_blank"><img align="center" alt="Bode327-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></a>
+  <a href="" target="_blank"><img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=Bode327"></a>
+  
 </div>
   
    ##
