@@ -12,10 +12,10 @@
 -->
 <h1 align="center">
   <br>
-  <a href="https://www.infotecmg.net/"><img src="https://github.com/bode327/Bode327/blob/main/.github/workflows/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="300"></a>
-  <br>
-  Bode327
-  <br>
+  <a href="https://www.infotecmg.net/">
+    <img src="https://raw.githubusercontent.com/bode327/Bode327/main/.github/workflows/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="300">
+  </a>
+</h1>
   
 </h1>
 <div align="center">
