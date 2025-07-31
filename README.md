@@ -13,7 +13,7 @@
 <h1 align="center">
   <br>
   <a href="https://www.infotecmg.net/">
-    <img src="https://raw.githubusercontent.com/bode327/Bode327/main/.github/workflow/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="300">
+    <img src="https://github.com/bode327/Bode327/blob/main/%E2%80%8E.github/workflows/Original%20on%20Transparent(Letter%20White).png?raw=true" alt="InfoTecMG" width="300">
   </a>
 </h1>
   
@@ -35,4 +35,4 @@
   
    ##
 
-  ![Snake animation](https://github.com/bode327/Bode327/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/bode327/Bode327/refs/heads/output/github-contribution-grid-snake-dark.svg)
