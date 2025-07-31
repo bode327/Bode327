@@ -13,7 +13,7 @@
 <h1 align="center">
   <br>
   <a href="https://www.infotecmg.net/">
-    <img src="https://raw.githubusercontent.com/bode327/Bode327/main/.github/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="300">
+    <img src="https://raw.githubusercontent.com/bode327/Bode327/main/.github/workflow/Original%20on%20Transparent(Letter%20White).png" alt="InfoTecMG" width="300">
   </a>
 </h1>
   
